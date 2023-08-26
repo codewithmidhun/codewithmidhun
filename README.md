@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **midhunsunil.rgniyd@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1zQ5isiswtGMW1Ez5g7nBXC3Hrd0GHzvq/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://www.jobseeker.com/d/2D13UPL36nN9FAijNJzCap/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
