@@ -15,8 +15,6 @@
 <br>
 <br>
 
-<h3 align="center">A highly motivated Postgraduate with an MSc in Computer Science specialized in Artificial Intelligence and Machine Learning. My academic background, combined with my practical experience in the field, has equipped me with a deep understanding of the intricacies of data science and its real-world applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 ___
 
