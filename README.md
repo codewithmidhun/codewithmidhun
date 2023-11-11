@@ -8,8 +8,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmidhun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+
 ___
+
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
 
