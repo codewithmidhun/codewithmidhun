@@ -11,7 +11,7 @@
 
 ___
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
 
 - 📫 How to reach me **midhunsunil.rgniyd@gmail.com**
 
