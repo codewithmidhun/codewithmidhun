@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=960&lines=Hi+there+👋,+I+am+Midhun+Sunil;+Welcome+to+My+Profile!;AI+and+Machine+learning+enthusiast;Data+Scientist;Kaggle+community+member)](https://git.io/typing-svg)
 
 <p align="center">
-    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+    <a href="https://github.com/codewithmidhun/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmidhun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ___
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
 
 - 📫 How to reach me **midhunsunil.rgniyd@gmail.com**
 
