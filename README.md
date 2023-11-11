@@ -3,6 +3,10 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=960&lines=Hi+there+👋,+I+am+Midhun+Sunil;+Welcome+to+My+Profile!;AI+and+Machine+learning+enthusiast;Data+Scientist;Kaggle+community+member)](https://git.io/typing-svg)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmidhun&&theme=tokyonight" alt="codewithmidhun" /></p>
+
+___
+
 <h3 align="center">A highly motivated Postgraduate with an MSc in Computer Science specialized in Artificial Intelligence and Machine Learning. My academic background, combined with my practical experience in the field, has equipped me with a deep understanding of the intricacies of data science and its real-world applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
@@ -66,5 +70,3 @@ ___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmidhun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="codewithmidhun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithmidhun&show_icons=true&locale=en&theme=tokyonight" alt="codewithmidhun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmidhun&&theme=tokyonight" alt="codewithmidhun" /></p>
