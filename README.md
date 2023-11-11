@@ -6,6 +6,8 @@
 <h3 align="center">A highly motivated Postgraduate with an MSc in Computer Science specialized in Artificial Intelligence and Machine Learning. My academic background, combined with my practical experience in the field, has equipped me with a deep understanding of the intricacies of data science and its real-world applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
+___
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmidhun&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmidhun" /> </p>
 
 - 📫 How to reach me **midhunsunil.rgniyd@gmail.com**
@@ -20,6 +22,8 @@
 <a href="https://medium.com/@midhunsunil.rgniyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midhunsunil.rgniyd" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/midhunsunqu1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/midhunsunqu1k" height="30" width="40" /></a>
 </p>
+
+___
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
