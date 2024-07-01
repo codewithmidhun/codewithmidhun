@@ -16,8 +16,7 @@ ___
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/midhun-sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/midhun-sunil" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/midhun.sk.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/midhun.sk.71/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/midhun_sunil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/midhun_sunil/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/midhun_sunil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/midhun.inc/" height="30" width="40" /></a>
 <a href="https://medium.com/@midhunsunil.rgniyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midhunsunil.rgniyd" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/midhun_sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/midhunsunqu1k" height="30" width="40" /></a>
 </p>
