@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/codewithmidhun/codewithmidhun/blob/main/img.png)](https://www.linkedin.com/in/midhun-sunil)
+[![MasterHead](https://github.com/codewithmidhun/codewithmidhun/blob/main/image.png)](https://www.linkedin.com/in/midhun-sunil)
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=960&lines=Hi+there+👋,+I+am+Midhun+Sunil;+Welcome+to+My+Profile!;AI+and+Machine+learning+enthusiast;Data+Scientist;Kaggle+community+member)](https://git.io/typing-svg)
